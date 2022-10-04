@@ -91,7 +91,7 @@ DATABASES = {
        'NAME': config('DB_NAME'),
        'USER': config('DB_USER'),
        'PASSWORD': config('DB_PASS'),
-       'HOST': 'dpg-ccu96osgqg4a928fc34g-a.singapore-postgres.render.com',
+       'HOST': config('DB_HOST'),
     #    'HOST': config('DB_HOST'),
        'PORT': config('DB_PORT'),
    }
