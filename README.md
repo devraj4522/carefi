@@ -1,4 +1,4 @@
-# carefi
+# API For Real Time Bitcoin price check
 
 
 ## Setup
