@@ -20,3 +20,4 @@ Pillow==9.0.0
 xlrd
 s3fs
 python-decouple~=3.6
+psycopg2
