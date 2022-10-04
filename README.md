@@ -6,7 +6,7 @@
 The first thing to do is to clone the repository:
 
 ```sh
-$ git clone https://github.com/gocardless/sample-django-app.git
+$ git clone https://github.com/devraj4522/carefi.git
 $ cd sample-django-app
 ```
 
@@ -30,3 +30,10 @@ Once `pip` has finished downloading the dependencies:
 (env)$ cd project
 (env)$ python manage.py runserver
 ```
+
+
+## API End Points
+* Login
+* SignUp
+* List View Of Prices with pagination
+* Real time price check
